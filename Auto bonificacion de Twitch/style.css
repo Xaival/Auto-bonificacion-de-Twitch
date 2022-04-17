@@ -1,0 +1,18 @@
+div.Layout-sc-nxg1ff-0.krJuwP button{
+    background-color: #4caf50;
+    color: white;
+    animation: menear 1.25s cubic-bezier(.36,.07,.19,.97) infinite,
+               resplandor .5s alternate infinite;
+}
+@keyframes menear {
+    0%  {transform: rotate(0);}
+    20% {transform: rotate(-5deg);}
+    30% {transform: rotate(5deg);}
+    50% {transform: rotate(-2.5deg);}
+    60% {transform: rotate(2.5deg);}
+    100%{transform: rotate(0);}
+  }
+  @keyframes resplandor {
+    from{box-shadow: 0px 0px 10px 0px #4caf50;}
+    to  {box-shadow: 0px 0px 10px 5px #4caf50;}
+  }
