@@ -1,2 +1,2 @@
-# Ext_Navegador-Auto_bonificacion_de_Twitch
+# Auto bonificacion de Twitch
 Abre automáticamente el cofre de Twitch
