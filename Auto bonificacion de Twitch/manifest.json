@@ -1,6 +1,6 @@
 {
 	"manifest_version": 3,
-	"version": "1.0",
+	"version": "2022.04.19",
 	"name": "Auto bonificación de Twitch",
 	"description": "Recolecta los puntos de canales de Twitch automáticamente",
 	"author": "Xaival",
